@@ -16,13 +16,13 @@ public class prog5_typecasting {
         // int to double
         int age = 18;
         double doubleAge = age;
-        System.out.println(age);
-        System.out.println(doubleAge);
+        System.out.println(age); // 18
+        System.out.println(doubleAge); // 18.0
 
         // narrowing type casting
         // double to int
         double myDouble = 9.7d;
         int myInt = (int) myDouble;
-        System.out.println(myInt);
+        System.out.println(myInt); // 9
     }
 }

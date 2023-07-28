@@ -26,6 +26,13 @@ public class prog10_loops {
         for (String ele : cars) {
             System.out.println(ele);
         }
+
+        // break statement
+        for (int k = 0; k < 10; k++) {
+            if (k == 5)
+                break; // continue will skip one iteration.
+            System.out.println(k);
+        }
     }
 
 }

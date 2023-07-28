@@ -21,5 +21,14 @@ public class prog7_strings {
         // \\ - backslash
 
         System.out.println("the panhala is also called as \\ \'panhalgadh\'");
+
+        // other common escape sequences
+        /*
+         * \n-new line
+         * \r-carriage retun
+         * \t-tab
+         * \b-backspace
+         * \f-form feed
+         */
     }
 }

@@ -68,8 +68,24 @@ public class prog4_datatypes {
         System.out.println(myVal2);
         System.out.println(myVal3);
 
-        // Strings
+        // Strings- also called as special ninth type- it is an object of String class
         String greetings = "good morning";
         System.out.println(greetings + " omkar");
+
+        /*
+         * Not primitive data types -
+         * they are reference data types as they refer to objects.
+         * main differences between 2:
+         * 1. primitive types are predifined whereas non-primitive are created by
+         * programmers and not defined in java.
+         * 2. non-primitive can be used to call methods to perform certain operations,
+         * while primitive types cannot.
+         * 3. primitive type has always a value, while non-primitive types can be null.
+         * 4. primitive type starts with a lowercase letter, while non-primitive stars
+         * with uppercase letter.
+         * 
+         * e,g of non-primitive - Strings, Arrays, Classes, Interface etc.
+         *
+         */
     }
 }

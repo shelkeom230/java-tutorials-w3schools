@@ -34,5 +34,10 @@ public class prog1_helloworld {
         System.out.println(2 / 5);
         System.out.println(2 % 5);
 
+        // single line comment
+        /*
+         * multi-line comment
+         */
+
     }
 }
