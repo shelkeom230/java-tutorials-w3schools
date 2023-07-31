@@ -37,4 +37,16 @@ public class prog18_getters_setters {
         System.out.println(p2.getCity());
     }
 
+    /*
+     * encapsulation - hiding sensitive data from end users.
+     * 
+     * benefits-
+     * 1. better control of class attributes and methods
+     * 2. class attributes can be made read-only or write-only using getters and
+     * setters resp.
+     * 3. flexible : the programmer can change one part of code without affecting
+     * other parts.
+     * 4. increased security of data.
+     */
+
 }
