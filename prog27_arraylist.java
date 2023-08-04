@@ -59,6 +59,7 @@ public class prog27_arraylist {
         Collections.sort(cars);
         Collections.sort(numbers);
         System.out.print(cars + " ,  ");
+        System.out.println();
         System.out.print(numbers + " ,  ");
     }
 }

@@ -33,5 +33,11 @@ public class prog31_iterator {
             System.out.println(numbers);
         }
 
+        /*
+         * Note: Trying to remove items using a for loop or a for-each loop would not
+         * work correctly because the collection is changing size at the same time that
+         * the code is trying to loop.
+         */
+
     }
 }
